@@ -19,7 +19,8 @@ JRM/
 - **Dynamic Bidding**: Allow employees to bid on open shifts with administrative approval workflows.
 - **Secure Identity**: Role-Based Access Control (RBAC) powered by JWT.
 - **Audit-Ready**: Every change is tracked via Hibernate Envers for compliance.
-- **Integrated Payroll**: Automatic hour tracking linked to pay period processing.
+- **Integrated Payroll**: Automatic hour tracking linked to verified time entries and pay period processing.
+- **Real-Time Tracking**: Clock-in/out mechanics with automated duration calculation.
 
 ## How to Use
 1. **Initialize the Database**: Use `docker-compose up -d` to start the PostgreSQL instance.

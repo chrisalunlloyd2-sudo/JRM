@@ -35,7 +35,8 @@ JRM/
 | **Employee Profiles** | Personal and professional data linked to system users. | Active |
 | **Shift Scheduling** | Creation and management of work slots per location/dept. | Active |
 | **Shift Bidding** | Mechanism for employees to bid on open shifts. | Active |
-| **Payroll Processing** | Tracking time entries and generating paychecks. | Initialized |
+| **Payroll Processing** | Tracking time entries and generating paychecks. | Active |
+| **Time Tracking** | Real-time clock-in/out and automated hour calculation. | Active |
 | **Full Auditing** | Hibernate Envers tracking for every entity change. | Active |
 
 ## Performative Code Snippets
