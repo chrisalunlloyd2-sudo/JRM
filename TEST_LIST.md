@@ -1,7 +1,7 @@
 # Testing & Validation Checklist
 
-- [ ] Core Service Unit Tests (Scheduling, Bidding, Payroll)
-- [ ] Security Integration Tests (JWT Token Validation)
+- [x] Core Service Unit Tests (Scheduling, Bidding, Payroll)
+- [x] Security Integration Tests (JWT Token Validation)
 - [ ] API Endpoint Integration Tests (Auth, Scheduling, Organization)
 - [ ] Full Integration Test Suite (Flyway + TestContainers)
 
