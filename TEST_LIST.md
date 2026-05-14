@@ -2,7 +2,7 @@
 
 - [x] Core Service Unit Tests (Scheduling, Bidding, Payroll)
 - [x] Security Integration Tests (JWT Token Validation)
-- [ ] API Endpoint Integration Tests (Auth, Scheduling, Organization)
+- [x] API Endpoint Integration Tests (Auth, Scheduling, Organization)
 - [ ] Full Integration Test Suite (Flyway + TestContainers)
 
 
