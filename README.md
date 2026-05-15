@@ -21,6 +21,7 @@ JRM/
 - **Audit-Ready**: Every change is tracked via Hibernate Envers for compliance.
 - **Integrated Payroll**: Automatic hour tracking linked to verified time entries and pay period processing.
 - **Real-Time Tracking**: Clock-in/out mechanics with automated duration calculation.
+- **Native Android Prototype**: A functional UI mockup demonstrating Dashboard, Shifts, Payroll, and Bidding tabs with an integrated Light/Dark Mode toggle.
 
 ## How to Use
 1. **Initialize the Database**: Use `docker-compose up -d` to start the PostgreSQL instance.

@@ -3,7 +3,7 @@
 ## The Challenge
 Compiling a modern Spring Boot application directly into an Android APK presents a unique challenge: Android's `d8` (DEX compiler) does not support newer Java features like "Sealed Classes," which are heavily utilized within Spring Boot's internal `BOOT-INF` classloader and fat JAR structure. 
 
-To overcome this, we orchestrated an **Isolate & Inject** strategy. By stripping away the Spring Boot runtime packaging and compiling only our raw module code (Thin JARs), we successfully bypassed the structural limitations and compiled the bytecode into Android's native DEX format.
+To overcome this, we orchestrated an **Isolate & Inject** strategy. By stripping away the Spring Boot runtime packaging and compiling only our raw module code (Thin JARs), we successfully bypassed the structural limitations and compiled the bytecode into Android's native DEX format. We then developed a native Android `MainActivity` that functions as an interactive prototype featuring a Tabbed Navigation system (Dashboard, Shifts, Payroll, Bids) and a dynamic Dark/Light Mode engine.
 
 *Note: You mentioned the success being linked to our 32-bit architecture context. This is highly probable, as 32-bit JVMs and Termux builds often handle memory allocation and certain bytecode translations differently, which can sometimes bypass strict 64-bit strict validation constraints.*
 
