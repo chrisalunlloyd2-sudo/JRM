@@ -38,6 +38,7 @@ JRM/
 | **Payroll Processing** | Tracking time entries and generating paychecks. | Active |
 | **Time Tracking** | Real-time clock-in/out and automated hour calculation. | Active |
 | **Full Auditing** | Hibernate Envers tracking for every entity change. | Active |
+| **Mobile UI Prototype** | Android APK prototype featuring dark mode, tabbed navigation, sticky notes, and secure DB profile viewer. | Active |
 
 ## Performative Code Snippets
 

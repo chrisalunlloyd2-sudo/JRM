@@ -1,0 +1,148 @@
+# ==============================================================================
+# JRM CHRONOS - EXTENSIVE GITIGNORE
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. AI, CHATS, AND PERSONAL IDENTIFIABLE INFORMATION (PII)
+# ------------------------------------------------------------------------------
+# NEVER TRACK OR UPLOAD CHATS, USER LOGS, OR GEMINI ENVIRONMENTS
+.gemini/
+.geminiignore
+chats/
+session-*.jsonl
+*.jsonl
+gemini_prompts.log
+nova_next_steps.log
+*chat*
+*transcript*
+
+# ------------------------------------------------------------------------------
+# 2. SECRETS, API KEYS, AND CREDENTIALS
+# ------------------------------------------------------------------------------
+google_accounts.json
+oauth_creds.json
+*.keystore
+*.jks
+*.p12
+*.key
+*.pem
+*.pkcs12
+*.pfx
+*.cert
+*.crt
+*.rsa
+*.dsa
+*.ecdsa
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*.pub
+aws_credentials
+gcp_credentials.json
+.env
+.env.local
+.env.*.local
+secrets/
+credentials/
+.netrc
+
+# ------------------------------------------------------------------------------
+# 3. BUILD, COMPILED, AND PACKAGED ARTIFACTS
+# ------------------------------------------------------------------------------
+target/
+build/
+bin/
+obj/
+out/
+build_apk/
+temp_apk_build/
+build_dex/
+build_apk_final/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.apk
+*.apks
+*.aab
+*.dex
+*.idsig
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# ------------------------------------------------------------------------------
+# 4. LOGS AND DATABASES
+# ------------------------------------------------------------------------------
+logs/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.s3db
+*.sl3
+*.mdb
+*.accdb
+*.sql
+
+# ------------------------------------------------------------------------------
+# 5. IDEs, EDITORS, AND OS FILES
+# ------------------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# ------------------------------------------------------------------------------
+# 6. PYTHON VIRTUAL ENVIRONMENTS & CACHES
+# ------------------------------------------------------------------------------
+.venv
+venv/
+ENV/
+env.bak/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# ------------------------------------------------------------------------------
+# 7. NODE.JS AND FRONTEND CACHES
+# ------------------------------------------------------------------------------
+node_modules/
+.npm/
+.yarn/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.stylelintcache
+
+# ------------------------------------------------------------------------------
+# 8. RUST / CARGO CACHES
+# ------------------------------------------------------------------------------
+.cargo/
+/target/
+
+# ------------------------------------------------------------------------------
+# 9. GENERAL TEMP FILES
+# ------------------------------------------------------------------------------
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig

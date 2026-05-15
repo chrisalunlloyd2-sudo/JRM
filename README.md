@@ -22,6 +22,9 @@ JRM/
 - **Integrated Payroll**: Automatic hour tracking linked to verified time entries and pay period processing.
 - **Real-Time Tracking**: Clock-in/out mechanics with automated duration calculation.
 - **Native Android Prototype**: A functional UI mockup demonstrating Dashboard, Shifts, Payroll, and Bidding tabs with an integrated Light/Dark Mode toggle.
+- **Interactive Calendar & Planning**: 30-day shift calendar mapping to daily planners. Accept/Decline interactions dynamically update shift state and populate the dashboard.
+- **Communication Stickies**: Backend-driven sticky notes automatically attach to specific user shift assignments for immediate instruction delivery.
+- **Secure Employee DB Hook**: Deep-linking from the dashboard into a secure profile viewer detailing benefits, hours, and direct assignment summaries.
 
 ## How to Use
 1. **Initialize the Database**: Use `docker-compose up -d` to start the PostgreSQL instance.
