@@ -19,6 +19,7 @@ public class UserServiceImpl implements UserService {
     private final UserRepository userRepository;
     private final com.jrm.chronos.domain.repository.RoleRepository roleRepository;
     private final UserMapper userMapper;
+    private final org.springframework.security.crypto.password.PasswordEncoder passwordEncoder;
 
     @Override
     public UserDto findById(Long id) {
@@ -54,7 +55,7 @@ public class UserServiceImpl implements UserService {
         com.jrm.chronos.domain.User user = com.jrm.chronos.domain.User.builder()
                 .username(userCreateDto.getUsername())
                 .email(userCreateDto.getEmail())
-                .password(userCreateDto.getPassword()) // TODO: Encode password
+                .password(passwordEncoder.encode(userCreateDto.getPassword()))
                 .enabled(true)
                 .build();
 

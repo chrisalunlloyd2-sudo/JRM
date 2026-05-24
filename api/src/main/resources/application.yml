@@ -47,3 +47,7 @@ logging:
       max-file-size: 10MB
       total-size-cap: 100MB
       max-history: 30
+
+chronos:
+  jwtSecret: VipersStabilitySecretKey2026NormalcyPersistenceAndStabilityOverTimeLongerKeyForHS512
+  jwtExpirationMs: 86400000 # 24 hours

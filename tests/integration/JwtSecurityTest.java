@@ -9,7 +9,7 @@ import org.springframework.test.context.TestPropertySource;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest(properties = {
-    "chronos.jwtSecret=testSecretKeyForJrmChronosProjectWhichNeedsToBeLongEnough",
+    "chronos.jwtSecret=[REDACTED]edsToBeLongEnough",
     "chronos.jwtExpirationMs=3600000"
 })
 public class JwtSecurityTest {
