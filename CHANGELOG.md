@@ -2,6 +2,9 @@
 
 All notable changes to this project.
 
+## 2026-08
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
+
 ## 2026-07
 - **[Changed]** [Moe autonomous] JRM 2026-07-22 12:37 ($hash)
 
