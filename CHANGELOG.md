@@ -27,6 +27,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] JRM 2026-07-22 12:37 ($hash)
@@ -58,5 +59,4 @@ All notable changes to this project.
 - **[Changed]** Phase 5: Implement REST Controllers for all business modules ($hash)
 - **[Changed]** Phase 4: Implement JWT security infrastructure ($hash)
 - **[Changed]** Phase 3: Implement Scheduling and Shift Bidding service logic ($hash)
-- **[Changed]** Documentation update: ASCII topology, feature notes, and granular build instructions in README and BLUEPRINT ($hash)
 
