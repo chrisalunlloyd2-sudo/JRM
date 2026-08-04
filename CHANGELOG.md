@@ -29,6 +29,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] JRM 2026-07-22 12:37 ($hash)
@@ -58,5 +59,4 @@ All notable changes to this project.
 - **[Changed]** Phase 6: Implement core service unit tests ($hash)
 - **[Changed]** Phase 6: Setup testing structure and initial unit test placeholder ($hash)
 - **[Changed]** Phase 5: Implement REST Controllers for all business modules ($hash)
-- **[Changed]** Phase 4: Implement JWT security infrastructure ($hash)
 
