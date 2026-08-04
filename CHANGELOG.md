@@ -32,6 +32,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] JRM 2026-07-22 12:37 ($hash)
@@ -58,5 +59,4 @@ All notable changes to this project.
 - **[Docs]** Docs: Add APKBUILD.md with ASCII topology and exhaustive build instructions ($hash)
 - **[Changed]** Phase 6: Implement API endpoint integration tests ($hash)
 - **[Changed]** Phase 6: Implement JWT security integration test ($hash)
-- **[Changed]** Phase 6: Implement core service unit tests ($hash)
 
