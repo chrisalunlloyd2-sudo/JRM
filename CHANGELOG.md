@@ -22,6 +22,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] JRM 2026-07-22 12:37 ($hash)
@@ -58,5 +59,4 @@ All notable changes to this project.
 - **[Changed]** Phase 2 Complete: Finalized Payroll entities and all domain repositories ($hash)
 - **[Changed]** Phase 2: Add scheduling and bidding entities with repositories ($hash)
 - **[Changed]** Phase 2: Define core identity and location entities with initial Flyway migration ($hash)
-- **[Changed]** Initial project setup for Phase 1 ($hash)
 
