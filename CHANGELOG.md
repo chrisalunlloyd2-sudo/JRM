@@ -36,6 +36,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] JRM 2026-07-22 12:37 ($hash)
@@ -58,5 +59,4 @@ All notable changes to this project.
 ## 2026-05
 - **[Changed]** Enterprise: Initial manifestation on private GitHub ($hash)
 - **[Changed]** Security: Implement extensive .gitignore and purge sensitive files from tracking ($hash)
-- **[Changed]** Phase 8: Final Polish - Dark Mode Default, Interactive Tabs, and UI Mockup Data ($hash)
 
