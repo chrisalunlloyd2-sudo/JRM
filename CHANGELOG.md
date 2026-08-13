@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] JRM 2026-08-13 03:59 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-13 03:25 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-13 02:33 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-13 01:42 ($hash)
@@ -27,7 +28,6 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] JRM 2026-08-12 08:29 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-12 06:35 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-12 04:13 ($hash)
-- **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
