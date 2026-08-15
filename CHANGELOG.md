@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] JRM 2026-08-14 20:16 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-14 19:36 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-14 18:52 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-14 18:10 ($hash)
@@ -52,5 +53,4 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] JRM 2026-08-12 20:47 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-12 20:07 ($hash)
 - **[Changed]** [Moe autonomous] JRM 2026-08-12 19:34 ($hash)
-- **[Changed]** [Moe autonomous] JRM 2026-08-12 18:36 ($hash)
 
